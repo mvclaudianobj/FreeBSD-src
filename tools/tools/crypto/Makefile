@@ -25,7 +25,7 @@
 # SUCH DAMAGE.
 #
 
-PROGS=	cryptocheck \
+PROGS=	cryptocheck cryptotest cryptostats \
 	hifnstats ipsecstats safestats
 MAN=
 BINDIR?=	/usr/local/bin
